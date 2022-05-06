@@ -13,11 +13,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Author
 
-👤 **PASCAL KABIKA**
-
-- GitHub: [Paskab012](https://github.com/Paskab012?tab=overview&from=2021-12-01&to=2021-12-31)
-- [LinkedIn](https://www.linkedin.com/in/pascal-kabika-443061220/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
